@@ -36,3 +36,46 @@
     transform: rotate(360deg);
   }
 }
+.img{
+  width: 10%;
+  margin-top: 80px;
+}
+.titre {
+  display: flex;
+  justify-content: center;
+  /* justify-items: center; */
+  /* display: contents; */
+  /* align-items: center; */
+  align-items: baseline;
+  align-items: center;
+}
+h2 {
+  margin-inline-start: 100px;
+  font-family: 'Dancing Script', cursive;
+  padding-top: 59px;
+  font-size: 40px;
+  
+  
+}
+.addd {
+  gap: 10px;
+  display: flex;
+  justify-content: center;
+  margin-bottom: 50PX;
+}
+.tandhim {
+  display: flex;
+    justify-content: center;
+    gap: 37px;
+  
+}
+.espace {
+  gap: 50px;
+  display: flex;
+    flex-direction: column;
+    margin-top: 70px;
+
+}
+.btn {
+  border-radius: 10%;
+}
